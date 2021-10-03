@@ -1,1 +1,3 @@
-data/
+data/*.zip
+data/*.json
+data/images
