@@ -1,0 +1,300 @@
+Where is the hat?
+Woman's head.
+On the ground.
+On the bed.
+Hanging on the rack.
+
+Where was this photo taken?
+Inside the doughnut box.
+In a bakery.
+At a kitchen table.
+On a picnic table.
+
+Where was the photo taken?
+Close to building.
+Close to the street.
+Far away from the building.
+Far away from the street.
+
+Where is the photo taken?
+In a bathroom.
+In a closet.
+In a living room.
+In a locker room.
+
+Where is this sport played?
+On a tennis court.
+On a basketball court.
+In a baseball field.
+In a hockey rink.
+
+Where was this picture taken?
+On a busy city street.
+In the country.
+On top of a high building.
+At a circus.
+
+Where are bricks?
+On a building.
+In a quarry.
+At a demolition site.
+On a truck.
+
+Where is the tree?
+On the left.
+On the right.
+In the yard.
+In the jungle.
+
+Where is the dog?
+On the bench.
+Couch.
+Bed.
+Carpet.
+
+Where was the photo taken?
+On a city street.
+On the strip.
+On the highway.
+By the mall.
+
+Where is the tree?
+On the left behind the bench.
+Behind the house.
+In front of the house.
+In the forest.
+
+Where is the twelve?
+On top.
+On the bottom.
+Right.
+Left.
+
+Where is the gravel?
+Near the tracks.
+In the truck.
+Beside the road.
+In the yard.
+
+Where is the cake?
+On a wire rack.
+In the oven.
+In the box.
+On the table.
+
+Where was the photo taken?
+Along railroad tracks.
+Train depot.
+From the road.
+A bridge.
+
+Where is the blue board?
+In the water.
+On the sand.
+On the boat.
+On the pier.
+
+Where are the flowers?
+In the vase.
+On the table.
+Growing in the ground.
+In the garden.
+
+Where is this scene taking place?
+In an old bathroom.
+Basement.
+Guest bedroom.
+Livingroom.
+
+Where are the chairs?
+Around the tables.
+By the sofa.
+Next to door.
+In the classroom.
+
+Where is the photo taken?
+Office.
+At home.
+In the park.
+On the train.
+
+Where was the photo taken?
+In the living room.
+In the bathroom.
+In the car.
+In the pool.
+
+Where are the red signs?
+On the left.
+On the right.
+On the hill.
+On the bridge.
+
+Where was the photo taken?
+Garden.
+Public park.
+Zoo.
+Forest.
+
+Where are the men standing?
+In the parking lot.
+On the lawn.
+Outside the front door.
+By their cars.
+
+Where is the man standing?
+In a field.
+In the water.
+In the sand.
+On the rocks.
+
+Where is his watch?
+On his left wrist.
+On nightstand.
+In his pocker.
+On dressser.
+
+Where is the building located?
+Background.
+By a field.
+In the woods.
+On a city street.
+
+Where was this picture taken?
+In a museum.
+By a volcano.
+In a spa room.
+At the black jack table.
+
+Where is the fork in the picture, directionally?
+Left.
+Right.
+Straight up.
+Straight down.
+
+Where is the stove?
+In the kitchen.
+In the woods.
+In the shack.
+In the cabin.
+
+Where is this place?
+Church.
+My home.
+The office.
+My doctor.
+
+Where is the woman?
+In a cubicle.
+In an elevator.
+In a hallway.
+In a lobby.
+
+Where is the watch?
+On her left wrist.
+On her right wrist.
+In her pocket.
+In her purse.
+
+Where was this photo taken?
+In a bedroom.
+Bathroom.
+On porch.
+Living room.
+
+Where was this picture taken?
+Zoo.
+Park.
+House.
+College.
+
+Where could this photo have been taken?
+Zoo.
+Safari park.
+In the wild.
+National Park.
+
+Where is the picture taken?
+In the woods.
+Desert.
+Mountains.
+Field.
+
+Where is this scene?
+City street.
+On the road.
+At the farm.
+In the park.
+
+Where is the boat traveling directionally?
+Left.
+East.
+Northwest.
+South.
+
+Where is this scene?
+In a park.
+In a stadium.
+In a hotel.
+In a house.
+
+Where is the person?
+On a slope.
+In the lodge.
+The infirmary.
+Snowboarding.
+
+Where was the picture taken?
+On a soccer field.
+A football game.
+A basketball game.
+A hockey game.
+
+Where are the pillows?
+On the couch.
+On the bed.
+On the floor.
+On the chair.
+
+Where is the picture taken?
+At an intersection.
+At school.
+At church.
+At the mall.
+
+Where is the dog?
+Sidewalk.
+In the front yard.
+In a field.
+On a porch.
+
+Where is the bird's beak?
+Under wing.
+On face.
+In water.
+In babies mouth.
+
+Where are the man's hands?
+On the surfboard.
+On the ironing board.
+On the table.
+On the snowboard.
+
+Where are they on the mountain?
+The top.
+The bottom.
+On the side.
+In the mountains forest.
+
+Where is the baby injured in the picture?
+On the face.
+On the eye.
+In the mouth.
+On the foot.
+
+Where is the sink in the photo?
+Bottom left corner.
+By the microwave.
+Near the counter.
+By the stove.
+
