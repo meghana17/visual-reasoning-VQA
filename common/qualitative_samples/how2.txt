@@ -1,0 +1,12 @@
+How many trees are there?
+Two.
+Six.
+One.
+Ten.
+
+How many people are riding bikes?
+One.
+Three.
+Two.
+Zero.
+
