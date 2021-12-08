@@ -110,6 +110,9 @@ class VQATorchDataset(Dataset):
             # example of img_datum['img_id'] = 'v7w_2375420'
             self.imgid2img[img_datum['img_id']] = img_datum
 
+        # ocr_path = os.path.join('data/v7w/images/ocr/', dataset.split + '.json')
+        # self.ocr = json.load(open(ocr_path, 'r'))
+
         # Only kept the data with loaded image features
         self.data = []
         drop_count = 0
@@ -132,8 +135,9 @@ class VQATorchDataset(Dataset):
         img_id = 'v7w_' + str(datum['image_id'])
         ques = datum['question']
         ques_type = datum['type']
-        # ques = ques.replace(ques_type.title(), '')
         qa_id = datum['qa_id']
+
+        # ocr_spans = self.ocr[img_id]
 
         # Get image info
         img_info = self.imgid2img[img_id]
@@ -165,6 +169,11 @@ class VQATorchDataset(Dataset):
             all_choices.append(temp)
         # Example of ques: 'Where is he sitting? <0At a park. <1On the grass. <2At a dining table. <3On a bench.'
         ques = ques + " " + " ".join(all_choices)
+        
+        # Append ocr info
+        # ques += " |"
+        # ques += " ".join(ocr_spans)
+
         target = answer_idx
         return feats, boxes, ques, target, ques_type, qa_id
 
@@ -214,5 +223,4 @@ class VQAEvaluator:
                     'label': label
                 })
             json.dump(result, f, indent=4, sort_keys=True)
-
 
